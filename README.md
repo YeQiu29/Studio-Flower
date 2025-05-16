@@ -38,13 +38,3 @@ Tujuan utama dari proyek ini:
 Kamu bisa menjalankan proyek ini secara lokal di browser kamu:
 
 
----
-
-### 📌 Cara Menggunakan
-
-1. Ganti `studio_flower@gmail.com` dan `https://instagram.com/studioflower.id` dengan kontak asli kamu.
-2. Ganti `YeQiu` dengan nama kamu.
-3. Upload folder proyek beserta file `README.md` ini ke GitHub.
-
-Jika kamu ingin, aku juga bisa bantu buatkan versi bahasa Inggris atau versi minimalis. Mau?
-
