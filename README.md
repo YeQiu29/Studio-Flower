@@ -1,38 +1,38 @@
-Studio Flower
-Welcome to Studio Flower, a beautifully crafted website project created with love and creativity for Alisa. This project showcases a vibrant and elegant floral-themed website built entirely with HTML, designed to bring the charm and freshness of flowers to the digital world.
+# 🌸 Studio Flower - Website untuk Alisa
 
-🌸 Introduction
-Studio Flower is a simple yet stunning website that celebrates the beauty of flowers through a clean and visually appealing design. Created as a personal project for Alisa, this website aims to inspire and delight visitors with its colorful and artistic presentation. Whether you are a flower enthusiast or just appreciate good design, Studio Flower offers a refreshing online experience.
+Selamat datang di repositori resmi **Studio Flower**, sebuah website HTML sederhana dan elegan yang dibuat khusus untuk **Alisa**. Proyek ini merupakan karya personal sebagai bentuk apresiasi, ekspresi kreatif, dan dedikasi terhadap dunia florist dan desain web.
 
-✨ Features
-Elegant and responsive floral-themed design
-Clean HTML structure for easy customization
-Beautiful color palette inspired by nature
-User-friendly layout with intuitive navigation
-Perfect for showcasing floral arrangements, studios, or personal portfolios
-🛠 Technologies Used
-HTML5 – The backbone of the website, ensuring semantic and accessible content
-CSS3 (optional, if included in the project) – For styling and layout (if applicable)
-Designed with creativity and simplicity in mind
-🚀 How to Run Locally
-Clone the repository
-git clone https://github.com/yourusername/studio-flower.git
+## ✨ Tentang Proyek
 
-Navigate to the project folder
-cd studio-flower
+Studio Flower adalah sebuah website statis berbasis HTML, CSS, dan JavaScript yang menampilkan keindahan dan keanggunan bunga dalam format visual yang menarik. Website ini dirancang untuk memberikan pengalaman pengguna yang menyenangkan, informatif, dan estetik.
 
-Open the index.html file in your favorite web browser
-You can simply double-click the file or right-click and choose "Open with" > your browser.
+Tujuan utama dari proyek ini:
+- Mempresentasikan karya florist Studio Flower secara online
+- Menjadi portofolio personal untuk Alisa
+- Menunjukkan kemampuan desain dan pengembangan web berbasis front-end
 
-No additional setup or dependencies are required since this is a pure HTML project.
+## 🌼 Fitur Utama
 
-📞 Contact
-For any questions, suggestions, or collaborations, feel free to reach out:
+- 🎨 Desain responsif dan estetik
+- 🌐 Navigasi yang user-friendly
+- 🖼️ Galeri bunga yang menarik
+- 📞 Halaman kontak yang interaktif
+- 📋 Halaman tentang (About Alisa & Studio Flower)
 
-Alisa's Email: 
-alisaaulia491@gmail.com
-GitHub: 
-github.com
-Instagram: 
-@studioflower
-Thank you for visiting Studio Flower! May your days be as bright and beautiful as a blooming garden. 🌷🌼🌻
+## 🛠️ Teknologi yang Digunakan
+
+- HTML5
+- CSS3 (dengan animasi & layout grid/flexbox)
+- JavaScript (untuk interaksi sederhana)
+- Google Fonts (untuk tipografi)
+- [Opsional] Library tambahan seperti AOS (Animate On Scroll)
+
+## 📸 Cuplikan Tampilan
+
+> Tambahkan screenshot dari website (jika ada) di folder `/assets/screenshots` dan tampilkan di sini:
+
+![Screenshot Studio Flower](assets/screenshots/preview.png)
+
+## 🚀 Cara Menjalankan Proyek
+
+Kamu bisa menjalankan proyek ini secara lokal di browser kamu:
