@@ -31,7 +31,7 @@ Tujuan utama dari proyek ini:
 
 > Tambahkan screenshot dari website (jika ada) di folder `images/Screenshot.png` dan tampilkan di sini:
 
-![Screenshot Studio Flower](assets/screenshots/preview.png)
+![Screenshot Studio Flower](images/screenshot.png)
 
 ## 🚀 Cara Menjalankan Proyek
 
