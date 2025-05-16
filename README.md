@@ -29,7 +29,7 @@ Tujuan utama dari proyek ini:
 
 ## 📸 Cuplikan Tampilan
 
-> Tambahkan screenshot dari website (jika ada) di folder `images/Screenshot.png` dan tampilkan di sini:
+> Berikut Tampilan Websitenya:
 
 ![Screenshot Studio Flower](images/screenshot.png)
 
