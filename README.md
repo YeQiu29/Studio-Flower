@@ -40,7 +40,7 @@ Kamu bisa menjalankan proyek ini secara lokal di browser kamu:
 
 ---
 
- 📌 Cara Menggunakan
+## 📌 Cara Menggunakan
 
 1. Ganti `studio_flower@gmail.com` dan `https://instagram.com/studioflower.id` dengan kontak asli kamu.
 2. Ganti `YeQiu` dengan nama kamu.
